@@ -73,8 +73,7 @@ dataset/
 
 ### Code Overview
 
-***Face Loading Class***: Loads face images from the dataset, detects faces, and extracts face embeddings.
-***SVM Classifier***: Trains an SVM classifier on the generated face embeddings.
-***Real-time Recognition***: Uses OpenCV to capture webcam input and recognize faces in real-time.
-Future Enhancements
+***Face Loading Class***: Loads face images from the dataset, detects faces, and extracts face embeddings.<br>
+***SVM Classifier***: Trains an SVM classifier on the generated face embeddings.<br>
+***Real-time Recognition***: Uses OpenCV to capture webcam input and recognize faces in real-time.<br>
 
