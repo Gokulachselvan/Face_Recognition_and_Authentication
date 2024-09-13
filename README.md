@@ -1,7 +1,8 @@
 <div align="center">
   <h1><b>Face Recognition Tool </b></h1>
 </div> <br>
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/3o7abnQiguzMTaYlOM" width="500" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p3><a href="https://giphy.com/gifs/colonyusa-colony-tory-kittles-usa-3o7abnQiguzMTaYlOM">via GIPHY</a></p3>
+<iframe src="https://giphy.com/embed/3o7abnQiguzMTaYlOM" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<p><a href="https://giphy.com/gifs/colonyusa-colony-tory-kittles-usa-3o7abnQiguzMTaYlOM">via GIPHY</a></p>
 
 
 ## Project Overview
