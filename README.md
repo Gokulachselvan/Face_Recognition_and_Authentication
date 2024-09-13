@@ -1,4 +1,7 @@
-# Face Recognition using FaceNet and MTCNN
+<div align="center">
+  <h1><b>Face Recognition Tool </b></h1>
+</div> 
+
 
 ## Project Overview
 
