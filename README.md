@@ -13,14 +13,13 @@ This Python-based project is a face recognition system that leverages **MTCNN** 
 
 ### Project Structure
 
-Use code with caution.
-
+``` bash
 .
 ├── dataset/        # Folder containing labeled images of faces
 ├── facenet_model/   # Pre-trained FaceNet model
 ├── requirements.txt # List of required dependencies
 └── face_recognition.py # Main Python script for face recognition
-
+```
 
 ### How It Works
 
@@ -71,7 +70,7 @@ The dataset should consist of images of faces organized in subfolders.
 Each subfolder represents a unique person.
 Ensure images are clear and frontal-facing.
 example:
-
+```bash
 dataset/
 ├── Alice/
 │   ├── alice_1.jpg
@@ -79,7 +78,7 @@ dataset/
 ├── Bob/
 │   ├── bob_1.jpg
 │   ├── bob_2.jpg
-
+```
 
 ### Code Overview
 
