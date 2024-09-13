@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><b>Face Recognition Tool </b></h1>
+  <h1><b>😏Face Recognition Tool😀 </b></h1>
 </div> <br>
 <div align="center">
     <img src="https://media.giphy.com/media/3o7abnQiguzMTaYlOM/giphy.gif" alt="Face Recognition GIF" />
