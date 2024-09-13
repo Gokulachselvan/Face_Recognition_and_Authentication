@@ -28,16 +28,7 @@ This Python-based project is a face recognition system that leverages **MTCNN** 
 3. **Classification:** Embeddings are classified using a linear SVM classifier.
 4. **Real-time Recognition:** The system recognizes faces in real-time, labeling them within the webcam feed.
 
-### Prerequisites
-
-* Python 3.x
-* OpenCV
-* TensorFlow
-* Keras
-* MTCNN
-* FaceNet (Keras implementation)
-
-### Installation
+## Installation
 
 1. **Clone the repository:**
 
